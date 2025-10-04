@@ -18,7 +18,6 @@ int main() {
         }
     }
 
-    // Adding both matrices
     for (int i = 0; i < 2; i++) {
         for (int j = 0; j < 2; j++) {
             sum[i][j] = A[i][j] + B[i][j];
